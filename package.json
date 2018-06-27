@@ -1,0 +1,22 @@
+{
+  "name": "balkansrv",
+  "version": "1.0.0",
+  "description": "Server of balkanHackathonApp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tpettrov/balkanhackathon.git"
+  },
+  "author": "Kvaba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tpettrov/balkanhackathon/issues"
+  },
+  "homepage": "https://github.com/tpettrov/balkanhackathon#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
